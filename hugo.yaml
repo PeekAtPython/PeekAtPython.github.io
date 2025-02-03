@@ -1,0 +1,51 @@
+theme: E25DX
+
+enableGitInfo: true
+
+defaultContentLanguage: en
+
+languages:
+  en:
+    weight: 1
+    languageName: English
+    languageCode: en-US
+    contentDir: content/en
+    title: Peek at Python
+    params:
+      description: A beginner-friendly guide to learn Python
+
+services:
+  googleAnalytics:
+    ID: G-XXXXXXXXXX
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+      hardWraps: true
+    parser:
+      attribute:
+        block: true
+        title: true
+
+params:
+  project:
+    startYear: 2024
+    presentYear: 2024
+    github:
+      repo: /PeekAtPython/PeekAtPython.github.io
+    themeColor:
+      light: '#ffffff'
+      dark: '#101010'
+
+  author:
+    name: K M Rejowan Ahmmed
+    url: https://github.com/ahmmedrejowan
+
+  home:
+    heading: Peek @
+    headingSegment2: Python
+    description: A beginner-friendly guide to learn Python
+    getStartedPath: /docs
