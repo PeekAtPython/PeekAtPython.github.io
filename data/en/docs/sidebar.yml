@@ -1,17 +1,39 @@
 - title: Overview
   pages:
     - title: Overview
-    - title: Data Structures
-    - title: Algorithms
-    - title: Complexity
+    - title: Installation
+    - title: Getting Started
+
+- title: Syntax and Data Types
+  pages:
+    - title: Syntax
+    - title: Comments
+    - title: Variables & Constants
+    - title: Data Types
+    - title: Type Conversion
+    - title: String Manipulation
+    - title: Input & Output
+
+- title: Operators & Expressions
+  pages:
+    - title: Arithmetic
+    - title: Comparison
+    - title: Logical
+    - title: Bitwise
+    - title: Assignment
 
 - title: Data Structures
   pages:
-    - title: Arrays
     - title: Lists
+    - title: Tuples
+    - title: Dictionaries
     - title: Sets
-    - title: Maps
-    - title: Queues
-    - title: Stacks
-    - title: Trees
-    - title: Pair & Triple
+    - title: Comprehensions
+
+- title: Control Flow & Loops
+  pages:
+    - title: If, Elif, Else
+    - title: For Loop
+    - title: While Loop
+    - title: Loop Controls
+    - title: Iterating

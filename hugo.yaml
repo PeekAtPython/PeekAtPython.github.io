@@ -35,7 +35,7 @@ params:
     startYear: 2024
     presentYear: 2024
     github:
-      repo: /PeekAtPython/PeekAtPython.github.io
+      repo: PeekAtPython/PeekAtPython.github.io
     themeColor:
       light: '#ffffff'
       dark: '#101010'
