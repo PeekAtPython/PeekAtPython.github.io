@@ -13,8 +13,7 @@ Welcome to **Peek @ Python**! This is a beginner-friendly guide to learning Pyth
 
 ## **Python**
 
-Python is a high-level, interpreted programming language known for its readability and simplicity. Created by **Guido
-van Rossum** and first released in 1991, Python emphasizes code readability with its use of significant indentation.
+Python is a high-level, interpreted programming language known for its readability and simplicity. Created by **Guido van Rossum** and first released in 1991, Python emphasizes code readability with its use of significant indentation.
 
 ### **Key Features of Python:**
 
